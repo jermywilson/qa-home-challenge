@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Oct 05 04:45:45 EDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-f7f0-2639-000001f4c030 
+on database directory memory:D:\schedule-message\cb5933e7-4db8-41bf-ac95-7ebd870a01cf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/jmwhe/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14+36-1461
+user.dir=D:\schedule-message
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
